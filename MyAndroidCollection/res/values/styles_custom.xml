@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <style name="GetawaysButton">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:padding">4dp</item>
+        <item name="android:textAppearance">?android:attr/textAppearanceLarge</item>
+        <item name="android:textColor">@color/white_color</item>
+        <item name="android:onClick">onClick</item>
+    </style>
+
+    <style name="OrangeButton" parent="GetawaysButton">
+        <item name="android:background">@drawable/btn_orange_selector</item>
+        <item name="android:shadowColor">#808080</item>
+        <item name="android:shadowDx">2.0</item>
+        <item name="android:shadowDy">2.0</item>
+        <item name="android:textAppearance">?android:attr/textAppearanceMedium</item>
+        <item name="android:shadowRadius">2.0</item>
+    </style>
+
+</resources>

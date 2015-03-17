@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Resort Directory colors -->
+    <color name="sign_background">#FFFFFF</color>
+    <color name="sign_edittext_color">#30AC1A</color>
+    <color name="black_color">#000000</color>
+    <color name="survey_background">#FFFFFF</color>
+    <color name="white_color">#FFFFFF</color>
+
+    <!-- Alerts -->
+    <color name="destination_btn_background">#D2E3ED</color>
+
+    <!-- Getaways Colors -->
+    <color name="text_primary">#333333</color>
+    <color name="text_secondary">#666666</color>
+    <color name="text_tertiary">#666666</color>
+    <color name="text_blue">#025c92</color>
+    <color name="text_gold">#d38e26</color>
+    <color name="background_white">#f5f5f5</color>
+    <color name="background_light_blue">#d2e3ed</color>
+    <color name="getaways_orange">#fe8402</color>
+    <color name="getaways_blue">#0077be</color>
+    <color name="getaways_gray">#808080</color>
+    <color name="favorite_text_color">#B9CEDC</color>
+    <color name="favorite_text_select">#F57F26</color>
+    <color name="icon_text">#1C7ABD</color>
+    <color name="transparent_background">#50000000</color>
+    <color name="ghostwhite">#F8F8FF</color>
+    <color name="getaways_billing">#FF8000</color>
+    <color name="red_label">#DC6415</color>
+
+    <!-- Travel Date -->
+    <color name="green">#8FCC85</color>
+    <color name="blue">#ff33b5e5</color>
+    <color name="white">#ffffff</color>
+    
+    <dimen name="com_facebook_picker_place_image_size">64dp</dimen>
+    <color name="com_facebook_picker_search_bar_background">#f5f5f7</color>
+    <color name="com_facebook_picker_search_bar_text">#bcbdc2</color>
+    
+    <color name="com_alerts_grey_resort_font">#DADADA</color>
+    <color name="com_alerts_grey_inactive_font">#ADADAD</color>
+    
+    <!-- selete membership -->
+    <color name="welcome_name_color">#025B92</color>
+    <color name="welcome_notification_color">#075F93</color>
+    
+    <color name="dark_blue">#0000FF</color>
+
+</resources>

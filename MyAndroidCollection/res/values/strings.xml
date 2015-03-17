@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">MyAndroidCollection</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="edit_Text">EditTextView</string>
+    <string name="btn_error_neutral">OK</string>
+
+</resources>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="alert_travel">From %1$s to %2$s</string>
+    <string name="alert_travel_start">Start Date: %1$s</string>
+    <string name="alert_travel_end">End Date: %1$s</string>
+    <string name="alert_no_result">No Result</string>
+    <string name="alert_create_limit">Limit Reached</string>
+    <string name="alert_no_result_description">Sorry, there is no availability that matches your alert.</string>
+    <string name="alert_no_result_desc_no_longer_avail">Sorry, this Getaway is no longer available.</string>
+    <string name="alert_create_limit_description">The maximum number of alerts is 30. Please delete an alert to continue with a new alert.</string>
+    <string name="alert_create_limit_active_description">The maximum number of active alerts is 15. Please make an alert inactive to continue with a new alert.</string>
+    <string name="alert_no_result_positive"><b>View Getaway Alerts</b></string>
+    <string name="alert_no_result_neutral"><b>Start New Search</b></string>
+    <string name="alert_getaway_available"><b>View Availability</b></string>
+    <string name="alert_dialog_ok"><b>OK</b></string>
+    <string name="alert_getaway_result">Good News</string>
+    <string name="alert_getaway_result_description">Your Getaway is Available!</string>
+    <string name="alert_create_result_description">Your alert has been created, but your Getaway is available now!</string>
+    <string name="search_getaway_no_result">Sorry, there is no availability that matches your search.Please change your criteria and search again or create a Getaway Alert.</string>
+    <string name="start_new_search">Start New Search</string>
+    <string name="create_getaway_alert"><b>Create Getaway Alert</b></string>
+    <string name="search_getaway_no_result_title">No Availability</string>
+    <string name="search_limit_reached">Sorry, this resort cannot be added. Getaway Alerts have a maximum of 100 resorts per alert.
+ Please remove resorts or create another alert.</string>
+ 
+    <string name="search_dest_limit_reached">Sorry, this destination cannot be added because it would exceed the maximum number of resorts allowed. Getaway alerts have a maximum of 100 resorts per alert. Please remove resorts or create another alert.</string>
+ 
+    <string name="enter_alert_name">Please provide a unique name for your Getaway Alert.</string>
+ 
+    <string name="alert_name_limit">Maximum number of characters for Getaway Alert Name is %1$s.</string>
+    
+    <string name="date_passed">The travel dates have passed. Please update the travel dates prior to activating your alert.</string>
+
+    <string name="alert_name_unique">This Getaway Alert Name is being used for another alert. Please provide a unique name.</string>
+</resources>
